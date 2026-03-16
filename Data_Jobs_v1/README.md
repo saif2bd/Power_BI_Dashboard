@@ -7,13 +7,13 @@ This project presents an **interactive Power BI dashboard** analyzing global **d
 ## 📊 Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](images/page1.png)
+![Main Dashboard](/images/page1.png)
 
 ### Job Title Drill Through
-![Job Title Drill Through](images/page2.png)
+![Job Title Drill Through](/images/page2.png)
 
-🔗 **View interactive dashboard via Power BI Service:**  
-https://www.example.com
+
+[🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/groups/me/reports/16dee4de-3d2c-4e5a-9cbd-1815a05f63b0/f55ec0f5750153b850c6?experience=power-bi)
 
 ---
 
