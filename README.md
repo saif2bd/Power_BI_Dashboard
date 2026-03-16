@@ -8,7 +8,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/images/page1.png)
+![Data Jobs DB GIF](images/page1.png)
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/groups/me/reports/16dee4de-3d2c-4e5a-9cbd-1815a05f63b0/f55ec0f5750153b850c6?experience=power-bi)
 
