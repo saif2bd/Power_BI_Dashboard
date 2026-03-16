@@ -56,6 +56,6 @@ Browse the dashboards below. Each project includes its own dedicated README cont
 
 💡 **Explore the Complete Project Documentation**
 
-[➡️ **View Full Project 2 Details (README)**](./Data_Jobs_v2/README.md)
+[➡️ **View Full Project 2 Details (README)**](/Data_jobs_v2/README.md)
 
 ---
