@@ -1,10 +1,10 @@
 # My Power BI Dashboard Portfolio 📊
 
-Data Nerds! This repository is a collection of Power BI dashboards I've developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
+Welcome! This repository showcases a collection of Power BI dashboards I have built while exploring data analytics and visualization. It reflects my progression from creating basic reports to developing more advanced, interactive dashboards that transform raw data into meaningful insights.
 
 # Featured Dashboards
 
-Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
+Browse the dashboards below. Each project includes its own dedicated README containing detailed explanations about the dataset, design choices, and development process.
 
 ## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
@@ -12,18 +12,21 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/groups/me/reports/16dee4de-3d2c-4e5a-9cbd-1815a05f63b0/f55ec0f5750153b850c6?experience=power-bi)
 
-**Key Power BI Skills Utilized:**
+## Key Power BI Skills Demonstrated
 
-- 🎨 Dashboard Layout & Design  
-- ⚙️ Power Query (ETL & Data Shaping)  
-- 🔗 Basic Data Modeling (Table Relationships)  
-- 🧮 Implicit Measures & Standard Aggregations  
-- 📊 Core Charts (Bar, Line, Area, Column)  
-- 🗺️ Map Visualizations for Geospatial Data  
-- 🔢 KPI Cards & Detailed Data Tables  
-- 🎛️ Interactive Slicers for Filtering  
-- ⚪ Buttons & Bookmarks for Page Navigation  
-- ➡️ Drill-Through Functionality  
+| Category | Description |
+|--------|-------------|
+| 🎨 Dashboard Design | Dashboard Layout & User-Focused Design |
+| ⚙️ Data Preparation | Power Query for Data Cleaning & Transformation (ETL) |
+| 🔗 Data Modeling | Foundational Data Modeling with Table Relationships |
+| 🧮 Measures & Aggregations | Implicit Measures and Aggregation Techniques |
+| 📊 Data Visualization | Standard Visualizations (Bar, Line, Area, and Column Charts) |
+| 🗺️ Geospatial Analysis | Geographic Mapping for Spatial Data Analysis |
+| 🔢 KPIs & Reporting | KPI Cards and Structured Data Tables |
+| 🎛️ Interactivity | Dynamic Slicers for Interactive Filtering |
+| ⚪ Navigation | Buttons and Bookmarks for Page Navigation |
+| ➡️ Deep Analysis | Drill-Through Features for Detailed Exploration |
 
-💡 **View Full Project 1 Details (README)**  
+💡 **Explore the Complete Project Documentation**
+
 [➡️ **View Full Project 1 Details (README)**](./Data_Jobs_v1/README.md)
